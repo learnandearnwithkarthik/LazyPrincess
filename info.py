@@ -71,7 +71,7 @@ ADMIN_USRNM = environ.get('ADMIN_USRNM','Moneycaseadmin') # WITHOUT @
 MAIN_CHANNEL_USRNM = environ.get('MAIN_CHANNEL_USRNM','Moneycaseofficial') # WITHOUT @
 DEV_CHANNEL_USRNM = environ.get('DEV_CHANNEL_USRNM','krsbots') # WITHOUT @
 LAZY_YT_HANDLE = environ.get('LAZY_YT_HANDLE','Playitlinksofficial')  # WITHOUT @ [  add only handle - don't add full url  ] 
-MOVIE_GROUP_USERNAME = environ.get('MOVIE_GROUP_USERNAME', "") #[ without @ ]
+MOVIE_GROUP_USERNAME = environ.get('MOVIE_GROUP_USERNAME', "+OCEl4k24o8FlNzJl") #[ without @ ]
 
 # Url Shortner
 URL_MODE = is_enabled((environ.get("URL_MODE","True")), False)
